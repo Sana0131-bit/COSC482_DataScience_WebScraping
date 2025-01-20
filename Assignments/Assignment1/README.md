@@ -24,7 +24,7 @@ The notebook for this assignment is located in this folder:
 You can preview the notebook using the "Open in Colab" badge below.  
 ⚠️ **Important:** Do not edit or run the preview notebook. Open the notebook via your forked repository to save changes.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roaasoloh/COSC482_DataScience_WebScraping/blob/main/Assignments/Assignment1/Assignment1_WebScrapingPractice.ipynb)
+(https://colab.research.google.com/github/(username)/COSC482_DataScience_WebScraping/blob/main/Assignments/Assignment1/Assignment1_WebScrapingPractice.ipynb)
 
 ---
 
